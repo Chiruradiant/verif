@@ -1,6 +1,6 @@
 module top;
 
-initial 
+initial begin
 $display("Hello World");
-
+end
 endmodule
